@@ -53,6 +53,16 @@ var DPDB_CACHE = {
     "bw": 3,
     "ac": 1000
   },
+    
+    "type": "android",
+    "rules": [
+      { "mdmh": "Google//Pixel/" },
+      { "ua": "Pixel" }
+    ],
+    "dpi": [442.4, 443.3],
+    "bw": 3,
+    "ac": 1000
+  },    
 
   {
     "type": "android",
